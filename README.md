@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushxmishra&label=Profile%20views&color=0e75b6&style=flat" alt="piyushxmishra" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **HTML , CSS , Python**
+- 💬 Ask me about **HTML , CSS , Python, JavaScript**
 
 - 📫 How to reach me **piyushbhp83@gmail.com**
 
