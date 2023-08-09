@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML , CSS , Python, JavaScript, TypeScript**
+- 💬 Ask me about **HTML , CSS , Python, JavaScript, TypeScript, React**
 
 - 📫 How to reach me **piyushbhp83@gmail.com**
 
@@ -23,6 +23,8 @@
   <a href="https://react.dev/"> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React" width="40" height="40"/> 
 </a>&nbsp
   <a href="https://getbootstrap.com/"> <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="React" width="40" height="40"/> 
+</a>&nbsp
+  <a href="https://tailwindcss.com/"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="React" width="40" height="40"/> 
 </a>
 </p>
 <br/>
