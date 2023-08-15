@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushxmishra&label=Profile%20views&color=0e75b6&style=flat" alt="piyushxmishra" /> </p>
 
-- 🌱 I’m currently learning **Rest API**
+- 🌱 I’m currently learning **React hooks**
 
 - 💬 Ask me about **HTML , CSS , Python, JavaScript, TypeScript, React**
 
