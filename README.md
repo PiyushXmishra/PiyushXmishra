@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 💬 Ask me about **HTML , CSS , Python, JavaScript, TypeScript, React**
+- 💬 Ask me about **HTML , CSS , JavaScript, TypeScript, React**
 
 - 📫 How to reach me **piyushbhp83@gmail.com**
 
