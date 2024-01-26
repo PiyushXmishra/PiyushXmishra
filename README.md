@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushxmishra&label=Profile%20views&color=0e75b6&style=flat" alt="piyushxmishra" /> </p>
 
-- 🌱 currently learning **Database Connections**
+- 🌱 currently learning **GraphQL**
 
 - 💬 Ask me about **HTML , CSS , JavaScript, TypeScript, React**
 
