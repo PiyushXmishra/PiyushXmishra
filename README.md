@@ -26,6 +26,10 @@
   <a href="https://getbootstrap.com/"> <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="React" width="40" height="40"/> 
 </a>&nbsp
   <a href="https://tailwindcss.com/"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="React" width="40" height="40"/> 
+</a>&nbsp
+  <a href="https://nodejs.org/docs/latest/api/"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="NodeJs"  height="40"/> 
+</a>&nbsp
+  <a href="https://nodejs.org/docs/latest/api/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"  height="40"/> 
 </a>
 </p>
 <br/>
