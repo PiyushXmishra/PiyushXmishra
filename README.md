@@ -30,6 +30,10 @@
   <a href="https://nodejs.org/docs/latest/api/"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="NodeJs"  height="40"/> 
 </a>&nbsp
   <a href="https://nodejs.org/docs/latest/api/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"  height="40"/> 
+</a>&nbsp
+  <a href="https://www.mongodb.com/"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB"  height="40"/> 
+</a>
+  <a href="https://expressjs.com/en/starter/hello-world.html"> <img src="https://upload.vectorlogo.zone/logos/expressjs/images/a1b5cb1f-dae7-4971-ab5b-68efce751b0f.svg" alt="ExpressJS"  height="40" /> 
 </a>
 </p>
 <br/>
