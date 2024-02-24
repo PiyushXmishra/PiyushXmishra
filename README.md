@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushxmishra&label=Profile%20views&color=0e75b6&style=flat" alt="piyushxmishra" /> </p>
 
-- 🌱 currently learning **GraphQL And PostgreSQL**
+- 🌱 currently learning **Prisma and playing with SQL queries.**
 
-- 💬 Ask me about **HTML , CSS , JavaScript, TypeScript, React**
+- 🖥️ Currently practicing **MERN**
 
 - 📫 How to reach me **piyushbhp83@gmail.com**
 
