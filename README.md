@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushxmishra&label=Profile%20views&color=0e75b6&style=flat" alt="piyushxmishra" /> </p>
 
-- 🌱 currently learning **Prisma and playing with SQL queries.**
+- 🌱 currently learning **nextJs and Docker**
 
 - 🖥️ Currently practicing **MERN**
+  
+- 🗣️ Improving **Communication Skills**
 
 - 📫 How to reach me **piyushbhp83@gmail.com**
 
