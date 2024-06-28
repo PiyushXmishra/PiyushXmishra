@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Piyush Mishra</h1>
-<h3 align="center">MERN stack developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 <img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushxmishra&label=Profile%20views&color=0e75b6&style=flat" alt="piyushxmishra" /> </p>
 
-- 🌱 currently learning **nextJs and Docker**
+- 🌱 currently learning **Kubernetes**
 
-- 🖥️ Currently practicing **MERN**
+- 🖥️ Currently practicing **NextJS**
   
 - 🗣️ Improving **Communication Skills**
 
