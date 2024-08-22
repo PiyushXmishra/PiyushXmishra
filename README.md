@@ -21,24 +21,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/> 
-</a>&nbsp
-  <a href="https://react.dev/"> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React" width="40" height="40"/> 
-</a>&nbsp
-  <a href="https://getbootstrap.com/"> <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="React" width="40" height="40"/> 
-</a>&nbsp
-  <a href="https://tailwindcss.com/"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="React" width="40" height="40"/> 
-</a>&nbsp
-  <a href="https://nodejs.org/docs/latest/api/"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="NodeJs"  height="40"/> 
-</a>&nbsp
-  <a href="https://nodejs.org/docs/latest/api/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"  height="40"/> 
-</a>&nbsp
-  <a href="https://www.mongodb.com/"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB"  height="40"/> 
-</a>
-  <a href="https://expressjs.com/en/starter/hello-world.html"> <img src="https://upload.vectorlogo.zone/logos/expressjs/images/a1b5cb1f-dae7-4971-ab5b-68efce751b0f.svg" alt="ExpressJS"  height="40" /> 
-</a>
-</p>
-<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=PiyushXmishra&theme=dark&hide_border=true)<br/>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,java,git,tailwind,react,mongodb,express,docker)](https://skillicons.dev)
+
+![PiyushXmishra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PiyushXmishra&theme=radical&hide_border=false)
 
